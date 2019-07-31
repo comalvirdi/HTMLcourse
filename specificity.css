@@ -1,0 +1,16 @@
+/*inheritance: if you set a property of a parent, it'll affect the children*/
+body{
+    color: blue;
+}
+ul{
+    color: red;
+}
+li{
+    color:orange;
+}
+.highlight{
+    color:yellow;
+}
+#special{
+    color: #70759E;
+}

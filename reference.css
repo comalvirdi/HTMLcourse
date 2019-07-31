@@ -1,0 +1,40 @@
+/*element*/
+li{
+
+}
+
+/*class*/
+.hi{
+
+}
+
+/*id*/
+#name{
+
+}
+
+/*star: selects everything on the page*/
+*{
+    border: 1px solid lightblue;
+}
+
+/*descendent selector: takes two or more selectors and chains them together*/
+li a{
+    color: pink;
+}
+
+/*adjacent selector: let us select elements that are siblings*/
+h4 + ul{
+    border: 4px solid darkblue;
+}
+
+/*attribute selector: select elements based off of any attribute*/
+a[href= "http://www.google.com"]{
+    background: cornflowerblue;
+}
+
+/*nth of type:takes number and selects every nth of a specific element*/
+ul:nth-of-type(3){
+    background: purple;
+}
+
