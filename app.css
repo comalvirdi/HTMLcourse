@@ -1,6 +1,16 @@
 h1{
     color: red;
+    border-color: purple;
+    border-width: 3px;
+    border-style: solid;
 }
 li{
     color: green;
+    border: 2px solid darkseagreen;
+}
+body{
+    background: #70759E;
+    /*background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_Mx8_8lw874cjvBECZM1wkbvgzNn7qf902o9qMWccT4U-HF1wA");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
 }
