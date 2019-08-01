@@ -1,0 +1,22 @@
+p{
+    /*Content - Width and Height*/
+
+    width: 200px;
+    height: 50%;
+    text-align: center;
+
+    /*Border*/
+
+    border: 2px solid blue;
+
+    /*Padding*/
+
+    padding: 10px;
+
+    /*Margin*/
+
+    /*margin: 150px;*/
+    /*margin: 20px 40px 400px 1px;*/
+    /*margin: 0 auto 0 auto;*/
+    margin: 0 auto;
+}
